@@ -1,0 +1,155 @@
+ 1 try { . "c:\Users\91756\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {} 
+   2 git config --global user.name "Shashikant1208"
+   3 git config --global user.email "varmashashikant19@gmail.com"
+   4 git config --list
+   5 git clone "https://github.com/Shashikant1208/example.git"
+   6 cd .\example\
+   7 ls
+   8 ls -a
+   9 git status
+  10 git add .
+  11 git commit -m "push all terraform files"
+  12 gut push
+  13 git add .
+  14 git commit -m "push all terraform files"
+  15 gut push
+  16 ls
+  17 cls
+  18 cd . .
+  19 cd ..
+  20 cls
+  21 git clone "https://github.com/Shashikant1208/example.git"
+  22 ls
+  23 cd .\example\
+  24 cd ..
+  25 git clone "https://github.com/Shashikant1208/terraform-important.git"
+  26 git config --global user.email "varmashashikant19@gmail.com"
+  27 git config --global user.name "Shashikant1208"
+  28 git clone "https://github.com/Shashikant1208/terraform-important.git"
+  29 git clone "https://github.com/Shashikant1208/terraform-important.git"
+  30 git clone "https://github.com/Shashikant1208/terraform-important.git"
+  31 git clone "https://github.com/Shashikant1208/terraform-important.git"
+  32 cd .\terraform-important\
+  33 ls
+  34 ls -a
+  35 git add data-source-03tf
+  36 git add data-source-03.tf
+  37 git add data-source-03.tf
+  38 git add data-source-03.tf
+  39 git add data-source-03.tf
+  40 git commit -m "commit a terraform file"
+  41 git push
+  42 git branch
+  43 git branch production
+  44 git branch
+  45 git swich prroduction
+  46 git switch production
+  47 git branch
+  48 git add *
+  49 git commit -m "commited all the terraform files"
+  50 git push
+  51 git push --set-upstream origin production
+  52 git add *
+  53 git commit -m "commited all the terraform files"
+  54 git push
+  55 git branch
+  56 git switch main
+  57 git branch
+  58 git switch production
+  59 git add .
+  60 git commit -m "commited some new  terraform files"
+  61 git push
+  62 git status
+  63 git add .
+  64 git status
+  65 git commit -m "commited some new  terraform files"
+  66 pwd
+  67 git branch
+  68 cls
+  69 cd ..
+  70 mkdir localrepo
+  71 cd .\localrepo\
+  72 ls -a
+  73 ls -al
+  74 git init
+  75 ls
+  76 ls -a
+  77 git status
+  78 git add .
+  79 git status
+  80 git commit -m "add initial files"
+  81 git status
+  82 git remote add origin https://github.com/Shashikant1208/example.git
+  83 git remote -v
+  84 git branch
+  85 git branch -M main
+  86 git branch
+  87 git push
+  88 git push -u origin main
+  89 git add .
+  90 git commit -m "add initial files"
+  91 git push
+  92 git checkout -b devloper
+  93 git banch
+  94 git branch
+  95 git checkout -b production
+  96 git branch
+  97 git branch -d devloper
+  98 git branch
+  99 git checkout main
+ 100 git branch
+ 101 ls
+ 102 git add .
+ 103 git commit -m "commit the text"
+ 104 git push
+ 105 git branch
+ 106 git branch production
+ 107 git branch
+ 108 git checkout production
+ 109 git branch
+ 110 git status
+ 111 git add .
+ 112 git commit -m "this is commited"
+ 113 git push
+ 114 git push --set-upstream origin production
+ 115 git diff main
+ 116 git branch
+ 117 git merge main
+ 118 git checkout main
+ 119 git pull origin main
+ 120 git pull origin main
+ 121 git branch
+ 122 git add .
+ 123 git commit -m "add button"
+ 124 git checkout production
+ 125 git branch
+ 126 git add .
+ 127 git commit -m "add drop down"
+ 128 git diff main
+ 129 git merge main
+ 130 git status
+ 131 git add .
+ 132 git commit -m "add both status"
+ 133 git status
+ 134 git diff main
+ 135 git chechout main
+ 136 git branch
+ 137 git checkout main
+ 138 git merge production
+ 139 git puss
+ 140 git push
+ 141 git add .
+ 142 git status
+ 143 git reset
+ 144 git status
+ 145 git add .
+ 146 git commit -m "delete button"
+ 147 git status
+ 148 git reset HEAD~1
+ 149 git status
+ 150 git log
+ 151 git reset 935f95a26e4c2a5668b25881a6e495a24cbb0c73
+ 152 git status
+ 153 git log
+ 154 git reset --hard 935f95a26e4c2a5668b25881a6e495a24cbb0c73
+ 155 git status
